@@ -1,0 +1,25 @@
+canvas {
+
+    position: absolute;
+    top: 50px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:auto;
+}
+
+body{
+    background-image: url('Images/gameboy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+#video1 {
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    width: 0px;
+    height: 0px;
+}
